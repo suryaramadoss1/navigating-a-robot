@@ -1,4 +1,6 @@
 # navigating-a-robot
+
+Multilabel one vs reast classifier, Linear discriminant analysis, Label Encoder
 navigate a robot using data collected from Inertial Measurement Units (IMU sensors).
 help robots recognize the floor surface they’re standing 
 collected IMU sensor data while driving a small mobile robot over different floor surfaces on the university premises. 
