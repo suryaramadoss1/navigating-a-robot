@@ -1,6 +1,7 @@
 # navigating-a-robot
 
 Multilabel one vs rest classifier, Linear discriminant analysis, Label Encoder
+From the Prediction,  "carpet is the surface where Robot uses acceleration and velocity"
 
 
 navigate a robot using data collected from Inertial Measurement Units (IMU sensors).
